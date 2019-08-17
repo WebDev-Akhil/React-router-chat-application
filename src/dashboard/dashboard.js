@@ -11,4 +11,3 @@ import { tsModuleBlock } from '@babel/types';
 
 export default DashboardComponent;
 
-export 
