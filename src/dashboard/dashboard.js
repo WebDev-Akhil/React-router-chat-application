@@ -1,7 +1,7 @@
 import React from 'react';
 import NewChatComponent from '../NewChat/newChat';
 import ChatListComponent from '../ChatList/chatList';
-import ChatViewComponent from '../ChatView/chatView';
+import ChatViewComponent from '../ChatView/styles';
 import ChatTextBoxComponent from '../ChatTextBox/chatTextBox';
 import styles from './styles';
 import { Button, withStyles } from '@material-ui/core';
